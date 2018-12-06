@@ -1,0 +1,10 @@
+1) пройти регистрацию: https://www.genymotion.com/account/create/
+2) скачать программу: https://yadi.sk/d/Gj_hskGL3RPu9z
+
+После установки нужно будет авторизоваться, создать новый эмулятор
+Далее запускаем Android Studio:
+File->Setting->Plugins->Brows repositories->в поиске пишем genymotion->установить
+
+После перезагружаем Android Studio
+
+Готово!
